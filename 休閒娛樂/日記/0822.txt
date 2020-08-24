@@ -1,0 +1,49 @@
+心情1 休閒娛樂
+晚上 家人 KTV 唱歌 紓壓
+when who where what why
+晚上，我和家人 去KTV 一起唱歌，因為想要舒壓
+
+心情1 休閒娛樂
+晚上 家人 唱歌 紓壓
+when who what why
+晚上的時候 我和家人一起 去唱歌，因為想要舒壓
+
+心情1 休閒娛樂
+晚上 家人 KTV 紓壓
+when who where why
+晚上的時候 我和家人一起，在KTV，因為想要舒壓
+
+心情1 休閒娛樂
+晚上 家人 紓壓
+when who why
+晚上的時候 我跟家人在一起，因為想要舒壓
+
+心情1 休閒娛樂
+晚上 家人 KTV 唱歌 
+when who where what
+晚上時 我和家人一起，去KTV，唱歌
+
+心情1 休閒娛樂
+晚上 家人 唱歌 
+when who what
+晚上的時候 我跟家人一起 唱歌
+
+心情1 休閒娛樂
+晚上 KTV 紓壓
+when where why
+晚上的時候 我在KTV，因為想要舒壓
+
+心情1 休閒娛樂
+家人 KTV 唱歌 紓壓
+who where what why
+我和家人一起，在KTV，唱歌，因為想要舒壓
+
+心情1 休閒娛樂
+家人 唱歌 紓壓
+who what why
+我和家人，一起唱歌，因為想要舒壓
+
+心情1 休閒娛樂
+家人 KTV 紓壓
+who where why
+我跟家人一起，在KTV，因為想要舒壓
